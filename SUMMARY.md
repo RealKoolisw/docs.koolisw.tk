@@ -13,7 +13,7 @@
 * [合作夥伴](discord-server/partnership.md)
 * [客服](discord-server/untitled.md)
 
-## 🛠 本群事務及雜項
+## 🛠 本群事務及雜項 <a id="group-stuff-and-misc"></a>
 
-* [如何進行Roblox身份驗證](ben-qun-shi-wu-ji-za-xiang/how-to-verify.md)
+* [如何進行Roblox身份驗證](group-stuff-and-misc/how-to-verify.md)
 
