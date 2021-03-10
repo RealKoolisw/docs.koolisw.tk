@@ -1,7 +1,5 @@
 # 規則 Rules
 
-![](../../.gitbook/assets/image0%20%281%29.png)
-
 歡迎來到 Koolisw Army的官方Discord伺服器
 
 這個是由 **超級酷斯RealKoolisw** 創建的官方Discord伺服器, 於2020年3月11日創立, 並基於Draconian Workshop以及Koolisw的YouTube頻道所持有的  
