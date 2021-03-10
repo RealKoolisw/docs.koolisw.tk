@@ -1,19 +1,14 @@
 # Table of contents
 
 * [Welcome!](README.md)
-* [點擊這裡加入](https://discord.gg/f4Q4Se4HNP)
+* [Click here to join](https://discord.gg/f4Q4Se4HNP)
 
-## 😎Discord群組 <a id="discord-server"></a>
+## 😎Discord Server
 
-* [如何加入](discord-server/how2join.md)
-* [規則 Rules](discord-server/all-rules/README.md)
-  * [Rules \(English Version\)](discord-server/all-rules/rules-english-version.md)
-* [常問問題 FAQ](discord-server/faq.md)
-* [身份組](discord-server/shen-fen-zu.md)
-* [合作夥伴](discord-server/partnership.md)
-* [客服](discord-server/untitled.md)
+* [How to Join?](discord-server/how2join.md)
+* [FAQ](discord-server/faq.md)
 
-## 🛠 本群事務及雜項 <a id="group-stuff-and-misc"></a>
+## 🛠 Group MISC <a id="group-stuff-and-misc"></a>
 
-* [如何進行Roblox身份驗證](group-stuff-and-misc/how-to-verify.md)
+* [How to use RoVer?](group-stuff-and-misc/how-to-verify.md)
 
