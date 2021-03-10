@@ -1,5 +1,5 @@
 ---
-description: 這裏就是會教大家如何在本群進行roblox的身份驗證
+description: 這裏就是會教大家如何在本群進行roblox的身份驗證!
 ---
 
 # 如何進行Roblox身份驗證
