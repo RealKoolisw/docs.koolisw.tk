@@ -1,6 +1,6 @@
 # Table of contents
 
-* [歡迎光臨](README.md)
+* [Welcome!](README.md)
 * [點擊這裡加入](https://discord.gg/f4Q4Se4HNP)
 
 ## 😎Discord群組 <a id="discord-server"></a>
