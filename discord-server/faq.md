@@ -1,12 +1,16 @@
+---
+description: 以下會列出成員們的最常見問題，並解答大家的疑問。
+---
+
 # 常問問題 FAQ
 
-## 我可以在那做管理員嗎?
+## 我可以在做管理層人員嗎?
 
-這個問題問得很好，在沒有緊急情況或管理員短缺的情況下，我們很少邀請一些用戶作為我們的管理團隊，為了保護服務器和某些安全原因，我們不會聘請管理員
+這個問題問得很好，在沒有緊急情況或管理員短缺的情況下，我們很少邀請一些用戶作為我們的管理團隊，為了保護服務器和某些安全原因，我們不會經常聘請管理員。
 
-## Have you had a chance to answer the previous question?
+## 如何獲得通知和顏色身份組？
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+首先，你可以前往「身份組」頻道。尋找你有意領取身份組的部份，包括「通知類」、「顏色」或者「國籍」，點擊對應表情符號即可獲除該身份組。
 
 
 
