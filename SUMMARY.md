@@ -5,8 +5,9 @@
 
 ## 🔐加入驗證 <a id="discord-joinverify"></a>
 
-* [基本入群驗證](discord-joinverify/basic-verify.md)
-* [ROBLOX身份驗證](discord-joinverify/roblox-acc-verify.md)
+* [基本入群驗證](discord-joinverify/basic.md)
+* [驗證常見問題 FAQ](discord-joinverify/faq.md)
+* [ROBLOX身份驗證](discord-joinverify/roblox-acc.md)
 
 ## 😎Discord群組 <a id="discord-server"></a>
 
