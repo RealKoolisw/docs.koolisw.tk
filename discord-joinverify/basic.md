@@ -25,3 +25,17 @@ Android 或 iOS 用戶的移動應用程序可能存在規則確認界面消失�
 驗證時，按鈕出現「互交失敗」？ 請瀏覽[常見問題頁面](https://docs.koolisw.tk/discord-joinverify/faq)
 {% endhint %}
 
+### Android介面驗證影片:
+
+可能存在規則確認界面消失錯誤問題。  
+您可以重新啟動應用程序並重新確認規則界面。
+
+![](../.gitbook/assets/screenrecorder-2021-05-30-21-49-35-362_3-1-.gif)
+
+### iOS/iPadOS介面驗證影片:
+
+可能存在規則確認界面消失錯誤問題。  
+您可以重新啟動應用程序並重新確認規則界面。
+
+![](../.gitbook/assets/img_7209-online-video-cutter.com-.gif)
+
