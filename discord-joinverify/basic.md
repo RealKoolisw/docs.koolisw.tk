@@ -21,3 +21,7 @@ Android 或 iOS 用戶的移動應用程序可能存在規則確認界面消失�
 
 ![](../.gitbook/assets/2021-05-30_154545.png)
 
+{% hint style="warning" %}
+驗證時，按鈕出現「互交失敗」？ 請瀏覽[常見問題頁面](https://docs.koolisw.tk/discord-joinverify/faq)
+{% endhint %}
+
