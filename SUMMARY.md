@@ -11,7 +11,7 @@
 
 ## 😎Discord群組 <a id="discord-server"></a>
 
-* [規則 Rules](discord-server/all-rules.md)
+* [伺服器規則](discord-server/rules.md)
 * [常問問題 FAQ](discord-server/faq.md)
 * [客服支援](discord-server/support.md)
 
