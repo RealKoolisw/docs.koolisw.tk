@@ -11,7 +11,6 @@
 
 ## 😎Discord群組 <a id="discord-server"></a>
 
-* [如何加入](discord-server/how2join.md)
 * [規則 Rules](discord-server/all-rules.md)
 * [常問問題 FAQ](discord-server/faq.md)
 * [客服支援](discord-server/support.md)
