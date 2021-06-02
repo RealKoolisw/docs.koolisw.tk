@@ -15,5 +15,3 @@
 * [常問問題 FAQ](discord-server/faq.md)
 * [客服支援](discord-server/support.md)
 
-## 🛠 本群事務及雜項 <a id="group-stuff-and-misc"></a>
-
