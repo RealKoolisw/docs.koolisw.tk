@@ -10,7 +10,7 @@ description: '以下就是本群組的所有規則，所有已加入本群的人
 * 禁止與任何管理人員爭拗，本群及其管理員擁有最終管理決定權，若果你發現管理人員有任何濫用行為，請電郵 `staff@​koolisw.tk`。
 
 {% hint style="info" %}
-**2021年6月**2**日最終修訂版本**
+【酷斯軍團 Koolisw Army】2021年6月暫定修訂
 {% endhint %}
 
 ![](../.gitbook/assets/server-rules-koavtr.png)
