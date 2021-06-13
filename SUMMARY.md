@@ -6,6 +6,7 @@
 ## 🔐加入驗證 <a id="discord-joinverify"></a>
 
 * [基本入群驗證](discord-joinverify/basic.md)
+* [進階入群驗證](discord-joinverify/advanced.md)
 * [驗證常見問題 FAQ](discord-joinverify/faq.md)
 * [ROBLOX身份驗證](discord-joinverify/roblox-acc.md)
 
