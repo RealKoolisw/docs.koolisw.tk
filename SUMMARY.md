@@ -16,3 +16,7 @@
 * [常問問題 FAQ](discord-server/faq.md)
 * [客服支援](discord-server/support.md)
 
+## 其他 <a id="other"></a>
+
+* [私隱權政策](other/privacy-policy.md)
+
