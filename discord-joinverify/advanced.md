@@ -15,15 +15,15 @@ description: 為了保護群組安全及免受機器人搗亂騷擾，本群在�
 
 當你點擊機器人按鈕的時候，你將會收到機器人的私訊（緊記在伺服器的私隱設定中開啟允許私人訊息），然後點擊訊息中的連結。
 
-![](../.gitbook/assets/img_7284.jpeg)
+![](../.gitbook/assets/unknown-2-.png)
 
 然後，進入網站後將會收到帳戶登入頁面，並點擊授權。
 
-![](../.gitbook/assets/img_7279.jpeg)
+![](../.gitbook/assets/unknown-3-.png)
 
 當你完成登入之後，你將會在頁面中間看見「我不是自動程式」點選按鈕。然後你完成彈出介面的圖片點選驗證。
 
-![](../.gitbook/assets/img_7281.jpeg)
+![](../.gitbook/assets/unknown-4-.png)
 
 驗證完成後，系統將會自動導向其他頁面，如果顯示驗證完成的頁面，即代表你成功了。
 
