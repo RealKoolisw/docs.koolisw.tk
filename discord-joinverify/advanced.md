@@ -37,3 +37,9 @@ description: 為了保護群組安全及免受機器人搗亂騷擾，本群在�
 驗證時，系統顯示錯誤頁面？ 請瀏覽[常見問題頁面](https://docs.koolisw.tk/discord-joinverify/faq)
 {% endhint %}
 
+### 驗證完整片段:
+
+手機/電腦/平板驗證方式一樣
+
+![](../.gitbook/assets/lu-zhi-20210711234105807.gif)
+
