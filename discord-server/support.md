@@ -33,7 +33,10 @@ description: 為了保障用戶的通行權利和為了方便解答用戶與伺�
 ![](../.gitbook/assets/unknown-2-%20%282%29.png)
 
 {% hint style="danger" %}
-警告: 在非必要的情況下使用此服務將會被警告。  
-屢次不聽將會禁止使用此服務。
+警告: 在非必要的情況下使用此服務將會被警告。
 {% endhint %}
+
+### 否則你將會得到暫時或永久性服務停權，如圖示。
+
+![](../.gitbook/assets/unknown-6-.png)
 
