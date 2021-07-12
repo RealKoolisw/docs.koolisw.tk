@@ -31,7 +31,7 @@ description: 為了保護群組安全及免受機器人搗亂騷擾，本群在�
 
 你返回你的Discord應用程式或者網頁，就將會收到以下來自機器人私人訊息的通知。並可以解鎖伺服器的其他頻道。
 
-![](../.gitbook/assets/img_7285.jpeg)
+![](../.gitbook/assets/unknown-5-.png)
 
 {% hint style="info" %}
 驗證時，系統顯示錯誤頁面？ 請瀏覽[常見問題頁面](https://docs.koolisw.tk/discord-joinverify/faq)
