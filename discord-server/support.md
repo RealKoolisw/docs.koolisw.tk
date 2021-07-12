@@ -30,7 +30,7 @@ description: 為了保障用戶的通行權利和為了方便解答用戶與伺�
 * 請求技術\(群組功能、機器人等\)教學
 * 或者其他完全不關乎本群的內容
 
-![](../.gitbook/assets/img_7210.jpeg)
+![](../.gitbook/assets/unknown-2-%20%282%29.png)
 
 {% hint style="danger" %}
 警告: 在非必要的情況下使用此服務將會被警告。  
